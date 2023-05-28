@@ -1,0 +1,9 @@
+{
+  "packs": [
+    {
+      "id": 1,
+      "name": "gen1",
+      "url": "https://gitee.com/yusiyang/llk/raw/master/pokemongen1.apk"
+    }
+  ]
+}
