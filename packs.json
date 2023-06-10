@@ -1,9 +1,14 @@
 {
   "packs": [
     {
-      "id": 1,
-      "name": "gen1",
-      "url": "https://raw.githubusercontent.com/yusiyang1216/llk/main/pokemongen1.apk"
+      "id": "gen1-redblue",
+      "name": "PokemonGen1RedBlue",
+      "url": "https://yusiyang1216/llk/PokemonGen1RedBlue.apk"
+    },
+    {
+      "id": "gen1-yellow",
+      "name": "PokemonGen1Yellow",
+      "url": "https://yusiyang1216/llk/PokemonGen1Yellow.apk"
     }
   ]
 }
