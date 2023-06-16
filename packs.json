@@ -1,14 +1,34 @@
 {
   "packs": [
     {
-      "id": "gen1-redblue",
-      "name": "PokemonGen1RedBlue",
-      "url": "https://yusiyang1216.github.io/llk/packs/PokemonGen1RedBlue.apk"
+      "id": "Red-Blue",
+      "name": "Red-Blue",
+      "url": "https://yusiyang1216.github.io/llk/packs/Red-Blue.apk",
+      "available": true
     },
     {
-      "id": "gen1-yellow",
-      "name": "PokemonGen1Yellow",
-      "url": "https://yusiyang1216.github.io/llk/packs/PokemonGen1Yellow.apk"
+      "id": "Yellow",
+      "name": "Yellow",
+      "url": "https://yusiyang1216.github.io/llk/packs/Yellow.apk",
+      "available": true
+    },
+    {
+      "id": "FireRed-LeafGreen",
+      "name": "FireRed-LeafGreen",
+      "url": "https://yusiyang1216.github.io/llk/packs/FireRed-LeafGreen.apk",
+      "available": true
+    },
+    {
+      "id": "Plant",
+      "name": "Plant",
+      "url": "https://yusiyang1216.github.io/llk/packs/Plant.apk",
+      "available": true
+    },
+    {
+      "id": "Food",
+      "name": "Food",
+      "url": "https://yusiyang1216.github.io/llk/packs/Food.apk",
+      "available": true
     }
   ]
 }
